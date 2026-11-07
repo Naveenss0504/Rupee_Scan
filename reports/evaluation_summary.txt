@@ -1,0 +1,25 @@
+SMART CURRENCY AI V2 - EVALUATION SUMMARY
+
+Validation metrics:
+{
+  "mp": 0.9460199195529669,
+  "mr": 0.9743784715063721,
+  "map50": 0.9923684210526315,
+  "map": 0.7660847953216374,
+  "maps": [
+    0.7660847953216374
+  ]
+}
+
+Test metrics:
+{
+  "mp": 0.7749088132352404,
+  "mr": 0.8888888888888888,
+  "map50": 0.9212352941176469,
+  "map": 0.5983600840336134,
+  "maps": [
+    0.5983600840336134
+  ]
+}
+
+Interpret metrics cautiously; performance depends on dataset size, split quality, and fresh real-world testing.

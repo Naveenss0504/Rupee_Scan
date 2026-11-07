@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+runs/
+datasets/
+*.log
+.DS_Store
+dataset/
+reports/weights/
