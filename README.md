@@ -12,7 +12,6 @@ The system uses a custom-trained model to identify new-series Indian ₹50 bankn
 
 👉 [Click Here to Watch Demo](https://drive.google.com/file/d/1Z1krPOFEI4XSRujaSL6h_3On3_i5hI-V/view?usp=drivesdk)
 
-*The demo video link will be added soon.*
 
 ## 🚀 Key Features
 
