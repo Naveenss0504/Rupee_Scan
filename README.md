@@ -13,7 +13,7 @@ The system uses a custom-trained model to identify new-series Indian ₹50 bankn
 👉 [Click Here to Watch Demo](https://drive.google.com/file/d/1Z1krPOFEI4XSRujaSL6h_3On3_i5hI-V/view?usp=drivesdk)
 
 
-## 🚀 Key Features
+## Key Features
 
 - Detection of Indian ₹50 currency notes
 - Support for front and back views of new-series ₹50 notes
@@ -26,7 +26,7 @@ The system uses a custom-trained model to identify new-series Indian ₹50 bankn
 - Python-based testing
 - Interactive web application for demonstrating predictions
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -41,7 +41,7 @@ The system uses a custom-trained model to identify new-series Indian ₹50 bankn
 | Google Colab / Jupyter Notebook | Model development and experimentation |
 | Git & GitHub | Version control and project hosting |
 
-## 🧠 How It Works
+## How It Works
 
 1. **Dataset Collection:** Images of Indian ₹50 currency notes are collected from different views.
 2. **Image Annotation:** Currency notes are annotated using Roboflow.
@@ -51,7 +51,7 @@ The system uses a custom-trained model to identify new-series Indian ₹50 bankn
 6. **Inference:** The trained model processes input images and predicts currency-note locations.
 7. **Visualization:** Detected notes are highlighted using bounding boxes and confidence scores.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Smart-Currency-AI-V2/
@@ -81,7 +81,7 @@ Smart-Currency-AI-V2/
 
 *Note: The structure above describes the project files. Some local dataset or model folders may not yet be available in the GitHub repository.*
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -114,7 +114,7 @@ python test.py
 
 **Important:** The test script may require an input image, camera, or other configuration. Check the paths and settings in `test.py` before running it.
 
-## 🤖 Model Inference
+## Model Inference
 
 For a basic YOLOv8 prediction using the trained weights:
 
@@ -136,7 +136,7 @@ Replace `path/to/test_image.jpg` with the location of your test image.
 
 Predicted images are saved to the Ultralytics output directory.
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 The project includes training and evaluation artifacts such as:
 
@@ -150,7 +150,7 @@ These files are available in the `reports/` directory.
 
 The project does not claim a specific accuracy percentage here; evaluation results should be interpreted from the recorded metrics and testing performance.
 
-## 📁 Dataset
+## Dataset
 
 The custom dataset consists of annotated images of Indian ₹50 currency notes, including front and back views.
 
@@ -158,14 +158,14 @@ Annotations are prepared in YOLO-compatible format for object detection.
 
 The dataset is intended for training and evaluating the detection model.
 
-## ⚠️ Limitations
+## Limitations
 
 - The model focuses on new-series Indian ₹50 currency notes.
 - Detection performance can vary with lighting, camera angle, blur, and occlusion.
 - The project detects currency notes; it does not independently verify whether a note is genuine or counterfeit.
 - Other denominations are outside the current model's scope.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Support for additional Indian currency denominations
 - Improved performance in challenging lighting conditions
@@ -174,13 +174,13 @@ The dataset is intended for training and evaluating the detection model.
 - Expanded training dataset
 - Improved deployment and user experience
 
-## 👨‍💻 Developer
+## Developer
 
 **Naveen SS**
 
 GitHub: https://github.com/Naveenss0504
 
-## 📌 Conclusion
+## Conclusion
 
 RupeeScan demonstrates the practical application of deep learning and computer vision for Indian currency-note detection.
 
