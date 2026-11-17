@@ -6,7 +6,7 @@ RupeeScan is a computer vision and deep learning project designed to detect Indi
 
 The system uses a custom-trained model to identify new-series Indian ₹50 banknotes, including their front and back sides. It demonstrates object detection, image annotation, model training, evaluation, and deployment using modern AI technologies.
 
-## 🎥 Project Demo
+## Project Demo
 
 **Watch the project demonstration here:**
 
