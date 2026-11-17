@@ -1,4 +1,4 @@
-# 💵 RupeeScan – Smart Currency AI V2
+# 💵 RupeeScan – Smart Currency AI 
 
 ### AI-Powered Indian ₹50 Currency Note Detection Using YOLOv8
 
